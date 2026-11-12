@@ -1,6 +1,7 @@
 using Unity.Cinemachine;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerBehaviour : MonoBehaviour
 {
@@ -27,6 +28,7 @@ public class PlayerBehaviour : MonoBehaviour
     private int CurrentHealth;
 
     public Transform Enemy;
+    public Slider HealthBar;
 
     private void Awake()
     {
@@ -41,6 +43,7 @@ public class PlayerBehaviour : MonoBehaviour
     {
         animator.SetInteger("AnimState", 0);
         CurrentHealth = MaxHealth;
+        HealthBar.value = CurrentHealth;
     }
 
     // Update is called once per frame
@@ -96,6 +99,8 @@ public class PlayerBehaviour : MonoBehaviour
     {
         rb.linearVelocity = Vector2.zero;
         transform.position = spawnPoint.position;
+        CurrentHealth = 3;
+        HealthBar.value = CurrentHealth;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -115,6 +120,7 @@ public class PlayerBehaviour : MonoBehaviour
             }
             camShaker.AmplitudeGain = 1;
             CurrentHealth--;
+            HealthBar.value = CurrentHealth;
             if(CurrentHealth <= 0)
             {
                 Die();
