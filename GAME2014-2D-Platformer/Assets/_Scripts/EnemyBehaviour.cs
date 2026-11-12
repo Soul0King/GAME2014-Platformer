@@ -33,8 +33,6 @@ public class EnemyBehaviour : MonoBehaviour
     void Update()
     {
         Patrol();
-        Debug.Log("P1" + HasReachedP1);
-        Debug.Log("P2" + HasReachedP2);
     }
 
     private void Patrol()
