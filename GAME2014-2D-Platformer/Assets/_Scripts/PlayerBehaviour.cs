@@ -84,5 +84,10 @@ public class PlayerBehaviour : MonoBehaviour
             rb.linearVelocity = Vector2.zero;
             transform.position = spawnPoint.position;
         }
+        if (other.CompareTag("Enemy"))
+        {
+            rb.linearVelocity = Vector2.zero;
+            transform.position = spawnPoint.position;
+        }
     }
 }
