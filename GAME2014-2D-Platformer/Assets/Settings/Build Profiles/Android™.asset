@@ -20,8 +20,26 @@ MonoBehaviour:
     rid: 5854266383537274886
   m_ActivePlatformGuid: 
   m_AdditionalPlatformBuildSettings: []
-  m_OverrideGlobalSceneList: 0
-  m_Scenes: []
+  m_OverrideGlobalSceneList: 1
+  m_Scenes:
+  - m_enabled: 1
+    m_path: Assets/Scenes/MainMenuLVL.unity
+    m_guid: 3f39f4b9a15dc614da7b47ac2c0a288a
+  - m_enabled: 1
+    m_path: Assets/Scenes/GreenGrassLVL.unity
+    m_guid: 8c9cfa26abfee488c85f1582747f6a02
+  - m_enabled: 1
+    m_path: Assets/Scenes/DesertLVL.unity
+    m_guid: e38b0bdb232124c4c8e4b59d855afab1
+  - m_enabled: 1
+    m_path: Assets/Scenes/IceCaveLVL.unity
+    m_guid: f51626162d1d55543b9876018d7ac48e
+  - m_enabled: 1
+    m_path: Assets/Scenes/GameWinLVL.unity
+    m_guid: dc9a099fda784d141bb025bbbd555c24
+  - m_enabled: 1
+    m_path: Assets/Scenes/GameLoseLVL.unity
+    m_guid: e6dd689fc3a4e384ab72fa9366edd20c
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
@@ -53,7 +71,7 @@ MonoBehaviour:
         m_ExportAsGoogleAndroidProject: 0
         m_DebugSymbolLevel: 1
         m_DebugSymbolFormat: 5
-        m_CurrentDeploymentTargetId: emulator-5554
+        m_CurrentDeploymentTargetId: __builtin__target_default
         m_BuildType: 2
         m_LinkTimeOptimization: 0
         m_BuildAppBundle: 0

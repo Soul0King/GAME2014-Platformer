@@ -19,4 +19,28 @@ public class MenuButtonsScript : MonoBehaviour
     {
         SceneManager.LoadScene("GreenGrassLVL");
     }
+    public void LoadGrassLevel()
+    {
+        SceneManager.LoadScene("GreenGrassLVL");
+    }
+    public void LoadDesertLevel()
+    {
+        SceneManager.LoadScene("DesertLVL");
+    }
+    public void LoadIceLevel()
+    {
+        SceneManager.LoadScene("IceCaveLVL");
+    }
+    public void LoadWinLevel()
+    {
+        SceneManager.LoadScene("GameWinLVL");
+    }
+    public void LoadLoseLevel()
+    {
+        SceneManager.LoadScene("GameLoseLVL");
+    }
+    public void LoadMainMenuLevel()
+    {
+        SceneManager.LoadScene("MainMenuLVL");
+    }
 }
