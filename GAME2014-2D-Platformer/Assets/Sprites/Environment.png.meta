@@ -23287,7 +23287,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1032
+      name: IceCave_TL
       rect:
         serializedVersion: 2
         x: 80
@@ -23313,7 +23313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1033
+      name: IceCave_TM1
       rect:
         serializedVersion: 2
         x: 96
@@ -23339,7 +23339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1034
+      name: IceCave_TM2
       rect:
         serializedVersion: 2
         x: 112
@@ -23365,7 +23365,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1035
+      name: IceCave_TM3
       rect:
         serializedVersion: 2
         x: 128
@@ -23391,7 +23391,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1036
+      name: IceCave_TR
       rect:
         serializedVersion: 2
         x: 144
@@ -24795,7 +24795,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1090
+      name: IceCave_LM1
       rect:
         serializedVersion: 2
         x: 80
@@ -24821,7 +24821,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1091
+      name: IceCave_Inside1
       rect:
         serializedVersion: 2
         x: 96
@@ -24847,7 +24847,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1092
+      name: IceCave_Inside2
       rect:
         serializedVersion: 2
         x: 112
@@ -24873,7 +24873,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1093
+      name: IceCave_Inside3
       rect:
         serializedVersion: 2
         x: 128
@@ -24899,7 +24899,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1094
+      name: IceCave_RM1
       rect:
         serializedVersion: 2
         x: 144
@@ -25809,7 +25809,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1129
+      name: IceCave_LM2
       rect:
         serializedVersion: 2
         x: 80
@@ -25835,7 +25835,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1130
+      name: IceCave_Inside4
       rect:
         serializedVersion: 2
         x: 96
@@ -25861,7 +25861,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1131
+      name: IceCave_Inside5
       rect:
         serializedVersion: 2
         x: 112
@@ -25887,7 +25887,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1132
+      name: IceCave_Inside6
       rect:
         serializedVersion: 2
         x: 128
@@ -25913,7 +25913,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1133
+      name: IceCave_RM2
       rect:
         serializedVersion: 2
         x: 144
@@ -25991,7 +25991,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1136
+      name: IceCave_CTL
       rect:
         serializedVersion: 2
         x: 240
@@ -26017,7 +26017,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1137
+      name: IceCave_CTR
       rect:
         serializedVersion: 2
         x: 256
@@ -26667,7 +26667,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1162
+      name: IceCave_LM3
       rect:
         serializedVersion: 2
         x: 80
@@ -26693,7 +26693,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1163
+      name: IceCave_Inside7
       rect:
         serializedVersion: 2
         x: 96
@@ -26719,7 +26719,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1164
+      name: IceCave_Inside8
       rect:
         serializedVersion: 2
         x: 112
@@ -26745,7 +26745,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1165
+      name: IceCave_Inside9
       rect:
         serializedVersion: 2
         x: 128
@@ -26771,7 +26771,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1166
+      name: IceCave_RM3
       rect:
         serializedVersion: 2
         x: 144
@@ -26849,7 +26849,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1169
+      name: IceCave_CBL
       rect:
         serializedVersion: 2
         x: 240
@@ -26875,7 +26875,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1170
+      name: IceCave_CBR
       rect:
         serializedVersion: 2
         x: 256
@@ -26901,7 +26901,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1171
+      name: IceCave_BottomSpikes1
       rect:
         serializedVersion: 2
         x: 288
@@ -26914,10 +26914,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
+      - - {x: 2, y: -8}
+        - {x: 1, y: 1}
+        - {x: -2, y: 1}
+        - {x: -3, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 8829423078e69144ea9955818d03bf08
@@ -26927,7 +26927,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1172
+      name: IceCave_BottomSpikes2
       rect:
         serializedVersion: 2
         x: 304
@@ -26940,10 +26940,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
+      - - {x: 6, y: -8}
+        - {x: 5, y: 1}
+        - {x: -6, y: 1}
+        - {x: -7, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 10297c9e42e4c4a489d01c8ba4a619db
@@ -26953,7 +26953,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1173
+      name: IceCave_BottomSpikes3
       rect:
         serializedVersion: 2
         x: 320
@@ -26966,10 +26966,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
+      - - {x: 4, y: -8}
+        - {x: 2, y: 6}
+        - {x: -1, y: 6}
+        - {x: -3, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: bfb3f10f785be614c9c800433954e36c
@@ -26979,7 +26979,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1174
+      name: IceCave_BottomSpikes4
       rect:
         serializedVersion: 2
         x: 336
@@ -26993,9 +26993,9 @@ TextureImporter:
       outline: []
       physicsShape:
       - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
+        - {x: 6, y: 6}
+        - {x: -5, y: 6}
+        - {x: -7, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: d54991c2eccd61c499c050fe9a7c83ef
@@ -27525,7 +27525,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1195
+      name: IceCave_BL
       rect:
         serializedVersion: 2
         x: 80
@@ -27551,7 +27551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1196
+      name: IceCave_BM1
       rect:
         serializedVersion: 2
         x: 96
@@ -27577,7 +27577,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1197
+      name: IceCave_BM2
       rect:
         serializedVersion: 2
         x: 112
@@ -27603,7 +27603,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1198
+      name: IceCave_BM3
       rect:
         serializedVersion: 2
         x: 128
@@ -27629,7 +27629,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1199
+      name: IceCave_BR
       rect:
         serializedVersion: 2
         x: 144
@@ -31425,12 +31425,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1345
+      name: IceCave_PushBlock
       rect:
         serializedVersion: 2
         x: 320
         y: 624
-        width: 16
+        width: 32
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -31438,40 +31438,14 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
+      - - {x: 15, y: -8}
+        - {x: 15, y: 8}
+        - {x: -14, y: 8}
+        - {x: -14, y: -8}
       tessellationDetail: 0
       bones: []
       spriteID: 47359e06611832541ab64115a88136a2
       internalID: 838667749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_1346
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 624
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6085b83575b1b4c4fbc1737d18bd15c4
-      internalID: 1996130995
       vertices: []
       indices: 
       edges: []
@@ -46565,11 +46539,6 @@ TextureImporter:
       Environment_1029: 1154108556
       Environment_1030: -1950834397
       Environment_1031: -2061582956
-      Environment_1032: 777348046
-      Environment_1033: 1545722187
-      Environment_1034: 1765977636
-      Environment_1035: -433036351
-      Environment_1036: 1925339061
       Environment_1037: -144476735
       Environment_1038: -1706649632
       Environment_1039: 1399026332
@@ -46628,11 +46597,6 @@ TextureImporter:
       Environment_1088: 378871791
       Environment_1089: -675862183
       Environment_109: -4289522759564521021
-      Environment_1090: -1859650943
-      Environment_1091: -2030471706
-      Environment_1092: 25826148
-      Environment_1093: -1194072992
-      Environment_1094: 764084023
       Environment_1095: 913885311
       Environment_1096: -939532093
       Environment_1097: 1322568640
@@ -46670,15 +46634,8 @@ TextureImporter:
       Environment_1126: 2084691686
       Environment_1127: 1124385641
       Environment_1128: -771286842
-      Environment_1129: -829715455
-      Environment_1130: 1187746546
-      Environment_1131: 1182789528
-      Environment_1132: 1087718640
-      Environment_1133: 1830449002
       Environment_1134: -210134163
       Environment_1135: 179816853
-      Environment_1136: 468690735
-      Environment_1137: -1667289421
       Environment_1138: -1008366174
       Environment_1139: -874455649
       Environment_114: -753327485227468033
@@ -46706,20 +46663,9 @@ TextureImporter:
       Environment_116: 9050229518735838562
       Environment_1160: -13605346
       Environment_1161: -482601398
-      Environment_1162: -1430186215
-      Environment_1163: 542954532
-      Environment_1164: 1982207752
-      Environment_1165: -1608840291
-      Environment_1166: 90050616
       Environment_1167: 2080989691
       Environment_1168: -43935369
-      Environment_1169: -1127677836
       Environment_117: 20702200076267556
-      Environment_1170: 909855705
-      Environment_1171: -243241615
-      Environment_1172: 531781347
-      Environment_1173: -212465561
-      Environment_1174: -857483581
       Environment_1175: 141729531
       Environment_1176: -200703394
       Environment_1177: -808324163
@@ -46742,11 +46688,6 @@ TextureImporter:
       Environment_1192: 1302044936
       Environment_1193: -168248985
       Environment_1194: -1985147091
-      Environment_1195: -406382659
-      Environment_1196: -2036787510
-      Environment_1197: 2013626390
-      Environment_1198: 809153097
-      Environment_1199: 2085570572
       Environment_12: -7033716677687157895
       Environment_120: -3088083250149564756
       Environment_1200: -1049594119
@@ -46909,7 +46850,6 @@ TextureImporter:
       Environment_1342: 565535034
       Environment_1343: 816680996
       Environment_1344: -1885611143
-      Environment_1345: 838667749
       Environment_1346: 1996130995
       Environment_1347: 810954569
       Environment_1348: 527917509
@@ -48442,6 +48382,40 @@ TextureImporter:
       GreenGrass_Water2: -6634020651976044968
       GreenGrass_Water3: 5380454486864556362
       GreenGrass_Water4: -5594258420635369253
+      IceCave_BL: -406382659
+      IceCave_BM1: -2036787510
+      IceCave_BM2: 2013626390
+      IceCave_BM3: 809153097
+      IceCave_BR: 2085570572
+      IceCave_BottomSpikes1: -243241615
+      IceCave_BottomSpikes2: 531781347
+      IceCave_BottomSpikes3: -212465561
+      IceCave_BottomSpikes4: -857483581
+      IceCave_CBL: -1127677836
+      IceCave_CBR: 909855705
+      IceCave_CTL: 468690735
+      IceCave_CTR: -1667289421
+      IceCave_Inside1: -2030471706
+      IceCave_Inside2: 25826148
+      IceCave_Inside3: -1194072992
+      IceCave_Inside4: 1187746546
+      IceCave_Inside5: 1182789528
+      IceCave_Inside6: 1087718640
+      IceCave_Inside7: 542954532
+      IceCave_Inside8: 1982207752
+      IceCave_Inside9: -1608840291
+      IceCave_LM1: -1859650943
+      IceCave_LM2: -829715455
+      IceCave_LM3: -1430186215
+      IceCave_PushBlock: 838667749
+      IceCave_RM1: 764084023
+      IceCave_RM2: 1830449002
+      IceCave_RM3: 90050616
+      IceCave_TL: 777348046
+      IceCave_TM1: 1545722187
+      IceCave_TM2: 1765977636
+      IceCave_TM3: -433036351
+      IceCave_TR: 1925339061
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
