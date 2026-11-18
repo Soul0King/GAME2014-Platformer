@@ -1,6 +1,7 @@
 using Unity.Cinemachine;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class PlayerBehaviour : MonoBehaviour
@@ -143,6 +144,20 @@ public class PlayerBehaviour : MonoBehaviour
         if(other.CompareTag("DeathPlane") && spawnPoint != null)
         {
             Die();
+        }
+
+        if (other.CompareTag("EndGoal"))
+        {
+            int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+
+            if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+            {
+                SceneManager.LoadScene(nextSceneIndex);
+            }
+            else
+            {
+                SceneManager.LoadScene(0);
+            }
         }
         
     }
