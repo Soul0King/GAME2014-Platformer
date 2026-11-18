@@ -27,7 +27,6 @@ public class PlayerBehaviour : MonoBehaviour
     public int MaxHealth = 3;
     private int CurrentHealth;
 
-    public Transform Enemy;
     public Slider HealthBar;
 
     private void Awake()
@@ -49,7 +48,8 @@ public class PlayerBehaviour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        EnemyDirection();
+
+  
     }
 
     private void FixedUpdate()
@@ -79,7 +79,7 @@ public class PlayerBehaviour : MonoBehaviour
             animator.SetInteger("AnimState", 0);
         }
         //Jump
-        if(joystick.Vertical > joystickVerticalSensitivty && isGrounded)
+        if(joystick.Vertical > joystickVerticalSensitivty && isGrounded && rb.linearVelocityY <= 0)
         {
             isJumping = true;
             rb.AddForce(Vector2.up * verticalForce * Time.deltaTime);
@@ -87,13 +87,13 @@ public class PlayerBehaviour : MonoBehaviour
         }
     }
 
-    private void EnemyDirection()
+    private void EnemyDirection(GameObject enemy)
     {
-        if (Enemy.transform.position.x > transform.position.x)
+        if (enemy.transform.position.x > transform.position.x)
         {
             isEnemyToTheRight = true;
         }
-        else if (Enemy.transform.position.x < transform.position.x)
+        else if (enemy.transform.position.x < transform.position.x)
         {
             isEnemyToTheRight = false;
         }
@@ -112,8 +112,9 @@ public class PlayerBehaviour : MonoBehaviour
         isGrounded = true;
         isJumping = false;
 
-        if (collision.gameObject.name == "Enemy")
+        if (collision.gameObject.CompareTag("Enemy"))
         {
+            EnemyDirection(collision.gameObject);
             if (isEnemyToTheRight) 
             { 
                 rb.AddForce(Vector2.left * knockbackForce); 

@@ -77,7 +77,7 @@ GameObject:
   - component: {fileID: 6587620274096397158}
   - component: {fileID: 2700635488754263612}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: DesertEnemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -112,9 +112,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46a0b7f621e544b4d9e62ac4d2f94f68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  PatrolPoints:
-  - {fileID: 1201043104582451576}
-  - {fileID: 4984233239719120485}
   horizontalForce: 300
 --- !u!212 &6578940931549792263
 SpriteRenderer:
@@ -165,7 +162,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1527256081, guid: c75586258c3c20349aebe38abf5b53c3, type: 3}
+  m_Sprite: {fileID: -1426183367, guid: c75586258c3c20349aebe38abf5b53c3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -186,7 +183,7 @@ Animator:
   m_GameObject: {fileID: 9036733507919273976}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b0f773bb84720224496b24c6bd452a39, type: 2}
+  m_Controller: {fileID: 9100000, guid: b23059bede1e38c48ada2cf64c192c33, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

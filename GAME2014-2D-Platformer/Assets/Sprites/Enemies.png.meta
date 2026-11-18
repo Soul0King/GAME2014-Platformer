@@ -625,7 +625,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_58
+      name: Snake_Walk1
       rect:
         serializedVersion: 2
         x: 80
@@ -647,7 +647,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_59
+      name: Snake_Walk2
       rect:
         serializedVersion: 2
         x: 96
@@ -669,7 +669,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_60
+      name: Snake_Walk3
       rect:
         serializedVersion: 2
         x: 112
@@ -691,7 +691,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemies_61
+      name: Snake_Walk4
       rect:
         serializedVersion: 2
         x: 128
@@ -4356,11 +4356,7 @@ TextureImporter:
       Enemies_55: -206896006
       Enemies_56: -1426183367
       Enemies_57: 1260600007
-      Enemies_58: 893786807
-      Enemies_59: -425380588
       Enemies_6: -1659489594
-      Enemies_60: -393257805
-      Enemies_61: 1021332800
       Enemies_62: -1336958482
       Enemies_63: -1142775221
       Enemies_64: -239213449
@@ -4402,6 +4398,10 @@ TextureImporter:
       Enemies_97: 1748031917
       Enemies_98: 1093608769
       Enemies_99: -1823996658
+      Snake_Walk1: 893786807
+      Snake_Walk2: -425380588
+      Snake_Walk3: -393257805
+      Snake_Walk4: 1021332800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

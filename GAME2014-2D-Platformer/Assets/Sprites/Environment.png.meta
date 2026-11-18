@@ -7609,7 +7609,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_317
+      name: Desert_TL
       rect:
         serializedVersion: 2
         x: 80
@@ -7635,7 +7635,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_318
+      name: Desert_TM1
       rect:
         serializedVersion: 2
         x: 96
@@ -7661,7 +7661,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_319
+      name: Desert_TM2
       rect:
         serializedVersion: 2
         x: 112
@@ -7687,7 +7687,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_320
+      name: Desert_TM3
       rect:
         serializedVersion: 2
         x: 128
@@ -7713,7 +7713,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_321
+      name: Desert_TR
       rect:
         serializedVersion: 2
         x: 144
@@ -9117,7 +9117,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_375
+      name: Desert_LM1
       rect:
         serializedVersion: 2
         x: 80
@@ -9143,7 +9143,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_376
+      name: Desert_Inside1
       rect:
         serializedVersion: 2
         x: 96
@@ -9169,7 +9169,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_377
+      name: Desert_Inside2
       rect:
         serializedVersion: 2
         x: 112
@@ -9195,7 +9195,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_378
+      name: Desert_Inside3
       rect:
         serializedVersion: 2
         x: 128
@@ -9221,7 +9221,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_379
+      name: Desert_RM1
       rect:
         serializedVersion: 2
         x: 144
@@ -10209,7 +10209,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_417
+      name: Desert_LM2
       rect:
         serializedVersion: 2
         x: 80
@@ -10235,7 +10235,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_418
+      name: Desert_Inside4
       rect:
         serializedVersion: 2
         x: 96
@@ -10261,7 +10261,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_419
+      name: Desert_Inside5
       rect:
         serializedVersion: 2
         x: 112
@@ -10287,7 +10287,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_420
+      name: Desert_Inside6
       rect:
         serializedVersion: 2
         x: 128
@@ -10313,7 +10313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_421
+      name: Desert_RM2
       rect:
         serializedVersion: 2
         x: 144
@@ -10391,7 +10391,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_424
+      name: Desert_CTL
       rect:
         serializedVersion: 2
         x: 240
@@ -10417,7 +10417,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_425
+      name: Desert_CTR
       rect:
         serializedVersion: 2
         x: 256
@@ -11145,7 +11145,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_453
+      name: Desert_LM3
       rect:
         serializedVersion: 2
         x: 80
@@ -11171,7 +11171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_454
+      name: Desert_Inside7
       rect:
         serializedVersion: 2
         x: 96
@@ -11197,7 +11197,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_455
+      name: Desert_Inside8
       rect:
         serializedVersion: 2
         x: 112
@@ -11223,7 +11223,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_456
+      name: Desert_Inside9
       rect:
         serializedVersion: 2
         x: 128
@@ -11249,7 +11249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_457
+      name: Desert_RM3
       rect:
         serializedVersion: 2
         x: 144
@@ -11327,7 +11327,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_460
+      name: Desert_CBL
       rect:
         serializedVersion: 2
         x: 240
@@ -11353,7 +11353,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_461
+      name: Desert_CBR
       rect:
         serializedVersion: 2
         x: 256
@@ -11379,7 +11379,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_462
+      name: Desert_Spikes
       rect:
         serializedVersion: 2
         x: 288
@@ -11393,8 +11393,8 @@ TextureImporter:
       outline: []
       physicsShape:
       - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
+        - {x: 8, y: 1}
+        - {x: -8, y: 1}
         - {x: -8, y: -8}
       tessellationDetail: 0
       bones: []
@@ -11899,7 +11899,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_482
+      name: Desert_BL
       rect:
         serializedVersion: 2
         x: 80
@@ -11925,7 +11925,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_483
+      name: Desert_BM1
       rect:
         serializedVersion: 2
         x: 96
@@ -11951,7 +11951,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_484
+      name: Desert_BM2
       rect:
         serializedVersion: 2
         x: 112
@@ -11977,7 +11977,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_485
+      name: Desert_BM3
       rect:
         serializedVersion: 2
         x: 128
@@ -12003,7 +12003,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_486
+      name: Desert_BR
       rect:
         serializedVersion: 2
         x: 144
@@ -12861,7 +12861,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_519
+      name: Desert_Water1
       rect:
         serializedVersion: 2
         x: 0
@@ -12887,7 +12887,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_520
+      name: Desert_Water2
       rect:
         serializedVersion: 2
         x: 16
@@ -12913,7 +12913,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_521
+      name: Desert_Water3
       rect:
         serializedVersion: 2
         x: 32
@@ -12939,7 +12939,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_522
+      name: Desert_Water4
       rect:
         serializedVersion: 2
         x: 48
@@ -13173,49 +13173,23 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_531
+      name: Desert_Cactus
       rect:
         serializedVersion: 2
         x: 432
-        y: 1104
-        width: 16
-        height: 16
+        y: 1088
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65830ab7df76cbc429e2322efd5addea
-      internalID: 1718740494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_532
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 1104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
+      - - {x: 13, y: -16}
+        - {x: 13, y: 15}
+        - {x: -14, y: 15}
+        - {x: -14, y: -16}
       tessellationDetail: 0
       bones: []
       spriteID: b848ce84516c07e469cd7f1f07c59b90
@@ -13740,58 +13714,6 @@ TextureImporter:
       bones: []
       spriteID: efbdacb2524a44f49b6632e693dc912e
       internalID: -1479124609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_553
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 1088
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33c883fbed80bf54b98ef073e8cbce12
-      internalID: 1875909080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_554
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 1088
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 60d9fdef413b5fd4fb8e46d1daf14e6a
-      internalID: 177486436
       vertices: []
       indices: 
       edges: []
@@ -46574,6 +46496,41 @@ TextureImporter:
     nameFileIdTable:
       CheckPoint_Active: 1632742732
       CheckPoint_Dead: -1430547649
+      Desert_BL: -285950391
+      Desert_BM1: 1568941988
+      Desert_BM2: 1510407406
+      Desert_BM3: 994611131
+      Desert_BR: 413385789
+      Desert_CBL: -205290437
+      Desert_CBR: -1923389191
+      Desert_CTL: 5921750139959948736
+      Desert_CTR: -1763155058404496002
+      Desert_Cactus: 1069589508
+      Desert_Inside1: 6195259799033815215
+      Desert_Inside2: -3222036701309351440
+      Desert_Inside3: -6807280509115539943
+      Desert_Inside4: 6160893641277530858
+      Desert_Inside5: 9115580721188260214
+      Desert_Inside6: 801747647841330904
+      Desert_Inside7: 268828511
+      Desert_Inside8: 1110926625
+      Desert_Inside9: -1825434968
+      Desert_LM1: 4704568942325632111
+      Desert_LM2: 7396873761508239417
+      Desert_LM3: -1144399702
+      Desert_RM1: 5449427718786273456
+      Desert_RM2: -2544716890689945051
+      Desert_RM3: -780205802
+      Desert_Spikes: -250166594
+      Desert_TL: 6324478268213818451
+      Desert_TM1: -7682162559856923676
+      Desert_TM2: -5115976931457589934
+      Desert_TM3: -4872899885007316393
+      Desert_TR: -8788692356843561022
+      Desert_Water1: -443033311
+      Desert_Water2: 541713386
+      Desert_Water3: -1807289675
+      Desert_Water4: 1373080592
       EndGoal: -285062701
       Environment_10: 2748799819732492174
       Environment_1000: -2030009849
@@ -47734,12 +47691,7 @@ TextureImporter:
       Environment_314: 1339996964507159454
       Environment_315: -5606924175907385447
       Environment_316: -8453859813853117098
-      Environment_317: 6324478268213818451
-      Environment_318: -7682162559856923676
-      Environment_319: -5115976931457589934
       Environment_32: -2027768988174841985
-      Environment_320: -4872899885007316393
-      Environment_321: -8788692356843561022
       Environment_322: 8499606476819270104
       Environment_323: -2700852618307484850
       Environment_324: -1582529481735242449
@@ -47798,11 +47750,6 @@ TextureImporter:
       Environment_372: 8095085933426286999
       Environment_373: -5855352237343745613
       Environment_374: 5100769658031385041
-      Environment_375: 4704568942325632111
-      Environment_376: 6195259799033815215
-      Environment_377: -3222036701309351440
-      Environment_378: -6807280509115539943
-      Environment_379: 5449427718786273456
       Environment_38: 4387114940483708709
       Environment_380: -2346740980415663110
       Environment_381: -838070078223780998
@@ -47844,16 +47791,9 @@ TextureImporter:
       Environment_414: -3262874098094264126
       Environment_415: 7370142159120576237
       Environment_416: 7257322752026757841
-      Environment_417: 7396873761508239417
-      Environment_418: 6160893641277530858
-      Environment_419: 9115580721188260214
       Environment_42: 6991994851604387820
-      Environment_420: 801747647841330904
-      Environment_421: -2544716890689945051
       Environment_422: -3598808151352884277
       Environment_423: 4522188048812536392
-      Environment_424: 5921750139959948736
-      Environment_425: -1763155058404496002
       Environment_426: 3706799667357481779
       Environment_427: -4625526438096737320
       Environment_428: 1055065310233514279
@@ -47884,17 +47824,9 @@ TextureImporter:
       Environment_450: 513470192
       Environment_451: 1671640506
       Environment_452: 202810888
-      Environment_453: -1144399702
-      Environment_454: 268828511
-      Environment_455: 1110926625
-      Environment_456: -1825434968
-      Environment_457: -780205802
       Environment_458: 1869536682
       Environment_459: -913395613
       Environment_46: -6122121489174308049
-      Environment_460: -205290437
-      Environment_461: -1923389191
-      Environment_462: -250166594
       Environment_463: 1020023577
       Environment_464: 1034035162
       Environment_465: -469498534
@@ -47916,11 +47848,6 @@ TextureImporter:
       Environment_48: 4846823439203006643
       Environment_480: -549489193
       Environment_481: -904217062
-      Environment_482: -285950391
-      Environment_483: 1568941988
-      Environment_484: 1510407406
-      Environment_485: 994611131
-      Environment_486: 413385789
       Environment_487: 31896390
       Environment_488: -208832828
       Environment_489: -1454426384
@@ -47957,11 +47884,7 @@ TextureImporter:
       Environment_516: 1151383067
       Environment_517: 2079872251
       Environment_518: -958789081
-      Environment_519: -443033311
       Environment_52: 319902059651018086
-      Environment_520: 541713386
-      Environment_521: -1807289675
-      Environment_522: 1373080592
       Environment_523: 680802922
       Environment_524: -1206768200
       Environment_525: 309624990
@@ -47972,7 +47895,6 @@ TextureImporter:
       Environment_53: -1973385982776480943
       Environment_530: -1547889247
       Environment_531: 1718740494
-      Environment_532: 1069589508
       Environment_533: -1366133915
       Environment_534: 606202062
       Environment_535: -131312028
