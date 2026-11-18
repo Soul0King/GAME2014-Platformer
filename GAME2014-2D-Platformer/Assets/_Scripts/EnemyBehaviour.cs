@@ -52,7 +52,7 @@ public class EnemyBehaviour : MonoBehaviour
         {
             
             rb.AddForce(Vector2.right * horizontalForce * Time.deltaTime);
-            sr.flipX = true;
+            sr.flipX = false;
             animator.SetInteger("AnimState", 1);
         }
         //left
@@ -60,7 +60,7 @@ public class EnemyBehaviour : MonoBehaviour
         {
             
             rb.AddForce(Vector2.left * horizontalForce * Time.deltaTime);
-            sr.flipX = false;
+            sr.flipX = true;
             animator.SetInteger("AnimState", 1);
         }
     }
