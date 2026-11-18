@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyBehaviour : MonoBehaviour
 {
-    public Transform[] PatrolPoints;
+    private Transform[] PatrolPoints = new Transform[2];
 
     Transform PPoint1;
     bool HasReachedP1 = false;
@@ -20,13 +20,17 @@ public class EnemyBehaviour : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+        PatrolPoints[0] = transform.Find("PPoint1");
+        PatrolPoints[1] = transform.Find("PPoint2");
+        transform.DetachChildren();
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-       animator.SetInteger("AnimState", 0);
-       PPoint1 = PatrolPoints[0];
-       PPoint2 = PatrolPoints[1];
+        animator.SetInteger("AnimState", 0);
+        PPoint1 = PatrolPoints[0];
+        PPoint2 = PatrolPoints[1];
+        horizontalForce = Random.Range(300f, 500f);
     }
 
     // Update is called once per frame

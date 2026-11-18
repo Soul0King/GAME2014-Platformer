@@ -6,6 +6,7 @@ TagManager:
   tags:
   - DeathPlane
   - Enemy
+  - PushBlock
   layers:
   - Default
   - TransparentFX

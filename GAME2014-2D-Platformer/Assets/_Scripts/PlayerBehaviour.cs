@@ -49,8 +49,12 @@ public class PlayerBehaviour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Move();
         EnemyDirection();
+    }
+
+    private void FixedUpdate()
+    {
+        Move();
     }
 
     private void Move()
