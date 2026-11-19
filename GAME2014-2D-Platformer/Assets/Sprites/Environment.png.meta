@@ -44685,12 +44685,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1880
+      name: Moving_Platform0
       rect:
         serializedVersion: 2
         x: 0
         y: 80
-        width: 16
+        width: 32
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -44711,38 +44711,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1881
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab65e1de46b5b8244976fb8055e6e8bd
-      internalID: 144639063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_1882
+      name: Moving_Platform1
       rect:
         serializedVersion: 2
         x: 32
         y: 80
-        width: 16
+        width: 48
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -44750,10 +44724,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
+      - - {x: 23, y: -5}
+        - {x: 23, y: 3}
+        - {x: -23, y: 3}
+        - {x: -23, y: -5}
       tessellationDetail: 0
       bones: []
       spriteID: 2950970ccebfdeb458dadb973b258945
@@ -44763,12 +44737,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Environment_1883
+      name: Moving_Platform2
       rect:
         serializedVersion: 2
-        x: 48
+        x: 87
         y: 80
-        width: 16
+        width: 48
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -44776,144 +44750,14 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb6a4ed40995e8a4da62eba08e98b7a2
-      internalID: -1786375714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_1884
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30fb78ef52ea3d848918f5bc0516564f
-      internalID: 1106224970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_1885
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
+      - - {x: 23, y: -5}
+        - {x: 23, y: 3}
+        - {x: -23, y: 3}
+        - {x: -23, y: -5}
       tessellationDetail: 0
       bones: []
       spriteID: be1e4dbc9eb605d4a9d81212fee6f1e7
       internalID: 1672554667
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_1886
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed6a7b9ad13d2fb42930741d6a731fab
-      internalID: -2066357233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_1887
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53fd876128953ee4dba4691b2bd5ac54
-      internalID: 1616948624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Environment_1888
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape:
-      - - {x: 8, y: -8}
-        - {x: 8, y: 8}
-        - {x: -8, y: 8}
-        - {x: -8, y: -8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: b700aa3ead758af4bb89d582d57f05ad
-      internalID: -776992241
       vertices: []
       indices: 
       edges: []
@@ -47427,12 +47271,9 @@ TextureImporter:
       Environment_1878: -1392223974
       Environment_1879: -2019509027
       Environment_188: -5803780031183048551
-      Environment_1880: -501630592
       Environment_1881: 144639063
-      Environment_1882: 64423164
       Environment_1883: -1786375714
       Environment_1884: 1106224970
-      Environment_1885: 1672554667
       Environment_1886: -2066357233
       Environment_1887: 1616948624
       Environment_1888: -776992241
@@ -48416,6 +48257,9 @@ TextureImporter:
       IceCave_TM2: 1765977636
       IceCave_TM3: -433036351
       IceCave_TR: 1925339061
+      Moving_Platform0: -501630592
+      Moving_Platform1: 64423164
+      Moving_Platform2: 1672554667
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
