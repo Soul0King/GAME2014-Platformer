@@ -159,7 +159,11 @@ public class PlayerBehaviour : MonoBehaviour
                 SceneManager.LoadScene(0);
             }
         }
-        
+
+        if(other.CompareTag("CheckPoint"))
+        {
+            spawnPoint = other.transform;
+        }
     }
 
 }

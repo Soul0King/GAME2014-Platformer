@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4001256548048516230}
   - component: {fileID: 7510624598243015368}
   - component: {fileID: 9120536101148011282}
+  - component: {fileID: -3096504830814490544}
   m_Layer: 0
   m_Name: CheckPoint
   m_TagString: CheckPoint
@@ -152,3 +153,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-3096504830814490544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 341952528924786982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa7b992e8f4f564ba14c5bbffc2e765, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CheckPointScript
+  sprites:
+  - {fileID: -1430547649, guid: d524dd37538c8b345b6764d77a77eb25, type: 3}
+  - {fileID: 1632742732, guid: d524dd37538c8b345b6764d77a77eb25, type: 3}
